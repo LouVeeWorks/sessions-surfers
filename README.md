@@ -35,7 +35,7 @@ Sessions stores all your data in your browser's local storage. No accounts, no s
 
 ## 🛒 Purchase
 
-This app is available for purchase on **[Stan Store](https://stan.store/YOUR-STORE-LINK)**.
+This app is available for purchase.
 
 ---
 
